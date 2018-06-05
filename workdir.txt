@@ -1,2 +1,0 @@
-working directory  工作区
-Repository  版本库
