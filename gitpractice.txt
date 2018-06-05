@@ -1,3 +1,5 @@
 this is first file
 now we see status
 Now for version compare
+
+add new txt
